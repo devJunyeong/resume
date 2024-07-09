@@ -20,7 +20,7 @@ clean:
 
 publish: resume
 	rm -rf /tmp/resume/
-	git clone -b gh-pages https://github.com/devxoul/resume.git /tmp/resume/
+	git clone -b gh-pages https://github.com/devJunyeong/resume.git /tmp/resume/
 	cp resume.rst index.html resume.txt resume.odt /tmp/resume/
 	cd /tmp/resume; \
 		git add -f resume.rst index.html resume.txt resume.odt; \
