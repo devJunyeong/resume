@@ -11,4 +11,4 @@ Email
    junyeonghwang54@gmail.com
 
 Website
-   https://devJunyeong.kr
+   https://devJunyeong.github.io
