@@ -9,7 +9,7 @@ Email
 
 Website
 
-   https://devJunyeong.kr/
+  https://devjunyeong.github.io/
 
 Interests
    - iOS, Android, Game, Design, Security, Web
