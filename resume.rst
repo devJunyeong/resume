@@ -12,9 +12,8 @@ Email
 
 Website
   
-
-Summary
--------
+   - https://www.facebook.com/profile.php?id=100024346703317
+   - https://www.instagram.com/joonyyoung__/
 
 Interests
    - iOS, Android, Game, Design, Security, Web
