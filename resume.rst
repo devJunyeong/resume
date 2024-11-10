@@ -1,9 +1,6 @@
 Junyeong Hwang - Resume
 ====================
 
-Personal Details
-----------------
-
 GitHub
    https://github.com/devJunyeong
 
