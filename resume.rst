@@ -1,4 +1,4 @@
-Junyeong Hwang - Resume
+Junyeong Hwang - Résumé
 ====================
 
 GitHub
